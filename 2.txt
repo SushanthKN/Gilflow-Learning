@@ -1,3 +1,2 @@
 Second file
-Added line in feature2 
 
